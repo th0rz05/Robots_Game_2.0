@@ -1,0 +1,7 @@
+Player         - Time
+----------------------
+Victor         -  6
+Ronaldo        -  8
+Maxi           -  9
+Moussa Marega  -  10
+Joao Gomes     -  10

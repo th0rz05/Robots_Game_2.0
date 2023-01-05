@@ -1,0 +1,9 @@
+Player         - Time
+----------------------
+Andre Freitas  -  5
+Moussa Marega  -  6
+tiago barbosa  -  6
+Rui            -  8
+Ruben          -  11
+Luis Rodrigues -  13
+Tiago Barbosa  -  15

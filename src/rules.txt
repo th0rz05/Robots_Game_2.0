@@ -1,0 +1,27 @@
+                       ___  __  ____   ________
+                      / _ \/ / / / /  / __/ __/
+                     / , _/ /_/ / /__/ _/_\ \  
+                    /_/|_|\____/____/___/___/  
+                                                      
+The player is placed in a maze made up of high-voltage fences and posts.
+There are also some interceptor robots that will try to destroy the player.
+If the player touches the maze or any of these robots, that is the end of the game.
+The robots are also destroyed when they touch the fences/posts or when they collide with each other.
+Every time the player moves , each robot moves one cell closer!
+There are two options: exit the maze or kill all robots.
+
+In the draw of the maze:
+* = electrical fence or post; + = non-electrical post
+H = player (alive); h = player (dead);
+R = robot (alive); r = robot (destroyed=dead/stuck);
+O = exit;
+
+The movement is indicated by typing one of the letters indicated below:
+
+                    Q               W               E
+                    A        players position       D
+                    Z               X               C
+
+The player has the option to stay in his/her current position by typing 'S'.
+
+                                0) Menu
