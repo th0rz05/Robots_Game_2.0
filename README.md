@@ -7,4 +7,4 @@ You can do this because the robots will follow you, so you can lead them to hit 
 
 
 ### Video
-[![Yt video](http://img.youtube.com/vi/sjz_JlHBwy8/0.jpg)](https://www.youtube.com/watch?v=sjz_JlHBwy8 "FEUP LBAW 2021 - Robots Game 2.0")
+[![Yt video](http://img.youtube.com/vi/sjz_JlHBwy8/0.jpg)](https://www.youtube.com/watch?v=sjz_JlHBwy8 "FEUP PROG 2021 - Robots Game 2.0")
